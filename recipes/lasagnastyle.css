@@ -1,0 +1,19 @@
+* {
+    background-color: brown;
+}
+
+.title {
+    color: white;
+}
+
+div {
+    font-style: italic;
+}
+
+.heading {
+    color: green;
+}
+
+ol, li {
+    background-color: white;
+}
